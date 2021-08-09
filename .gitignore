@@ -1,0 +1,6 @@
+.vscode/
+checkpoints/
+logs/
+trash/
+*.pyc
+__pycache__/
